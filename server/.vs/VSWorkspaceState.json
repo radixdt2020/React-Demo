@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\routes",
+    "\\routes\\Login",
+    "\\routes\\SQL",
+    "\\routes\\Student",
+    "\\routes\\Token"
+  ],
+  "SelectedNode": "\\app.js",
+  "PreviewInSolutionExplorer": false
+}
