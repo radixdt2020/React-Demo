@@ -1,0 +1,35 @@
+.dvLogin{
+    margin-top: 10px;
+}
+
+.controls{
+    width: 100%;
+}
+
+.divBtnSubmit{
+    padding-left: 147px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.dvLoginHeader{
+    margin-top: 248px;
+}
+
+.dvHeader{
+    margin-top: 0px;
+}
+
+.spnError{
+    color: red;
+}
+
+.container {
+    width: 522px;
+}
+.Appcontent {
+    text-align: left;
+    padding-left: 67px;
+    padding-right: 67px;
+    border: 2px solid lightgrey;
+}

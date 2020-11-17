@@ -1,0 +1,39 @@
+.dvControls{
+    margin-top: 10px;
+}
+
+.controls{
+    width: 100%;
+}
+
+.mainDv {
+    width: 550px;
+    margin-left: 658px;
+}
+.formContent {
+    text-align: left;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: 2px solid lightgrey;
+}
+
+.btnAdd{
+    padding-left: 127px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.asterisk{
+    font-size: small;
+    color: red;
+}
+
+.dvAddStudent{
+    text-align: left;
+}
+
+.lblstudent{
+    margin-left: 221px;
+}
+
